@@ -13,6 +13,7 @@
 		710B85641F948404004DBC72 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 710B85631F948404004DBC72 /* Assets.xcassets */; };
 		710B85671F948404004DBC72 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 710B85651F948404004DBC72 /* LaunchScreen.storyboard */; };
 		710B85721F948404004DBC72 /* GarageOpenerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 710B85711F948404004DBC72 /* GarageOpenerTests.swift */; };
+		710B857D1F9485BF004DBC72 /* GarageOpenerButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 710B857C1F9485BF004DBC72 /* GarageOpenerButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		710B856D1F948404004DBC72 /* GarageOpenerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GarageOpenerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		710B85711F948404004DBC72 /* GarageOpenerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GarageOpenerTests.swift; sourceTree = "<group>"; };
 		710B85731F948404004DBC72 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		710B857C1F9485BF004DBC72 /* GarageOpenerButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GarageOpenerButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				710B85631F948404004DBC72 /* Assets.xcassets */,
 				710B85651F948404004DBC72 /* LaunchScreen.storyboard */,
 				710B85681F948404004DBC72 /* Info.plist */,
+				710B857C1F9485BF004DBC72 /* GarageOpenerButton.swift */,
 			);
 			path = GarageOpener;
 			sourceTree = "<group>";
@@ -199,6 +202,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				710B857D1F9485BF004DBC72 /* GarageOpenerButton.swift in Sources */,
 				710B855F1F948404004DBC72 /* ViewController.swift in Sources */,
 				710B855D1F948404004DBC72 /* AppDelegate.swift in Sources */,
 			);
