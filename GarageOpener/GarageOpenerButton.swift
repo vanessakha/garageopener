@@ -9,7 +9,7 @@
 import Foundation
 
 class Webiopi {
-    //    let webiopiServerAddress: String = "192.168.1.10"
+    //    let webiopiServerAddress: String = "" // address
     //    let webiopiServerPort: Int = 8000
     let webiopiServerAddress: String = "cef71d2a.ngrok.io"
     let webiopiServerPort: Int = 80
